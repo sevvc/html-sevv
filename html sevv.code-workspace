@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "html sevv",
+			"path": "."
+		},
+		{
+			"name": "mail",
+			"path": "../Downloads/personal-blog-template/mail"
+		},
+		{
+			"name": "lib",
+			"path": "../Downloads/personal-blog-template/lib"
+		},
+		{
+			"name": "css",
+			"path": "../Downloads/personal-blog-template/css"
+		},
+		{
+			"name": "img",
+			"path": "../Downloads/personal-blog-template/img"
+		},
+		{
+			"path": "../Downloads/personal-blog-template/scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html sevv"
+	}
+}
